@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An humble petition for accomodation presented to the Kings most Excellent Majesty, at Oxford, on Sunday the eleventh of this instant December / from the gentry and commonalty of the countie of Yorke, and other adjoying counties; declaring their earnest desire to have peace concluded, and a happy agreement, betweene the King and Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44995</idno><idno type="EEBO-CITATION">11779551</idno>
+  <idno type="VID">48982</idno>
+  <idno type="EEBO-PROQUEST">2240875562</idno>
+  
+            <idno type="STC">Wing H3448</idno>
+            <idno type="STC">ESTC R724</idno>
+            <idno type="OCLC">11779551</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A44995)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 48982)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 538:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An humble petition for accomodation presented to the Kings most Excellent Majesty, at Oxford, on Sunday the eleventh of this instant December / from the gentry and commonalty of the countie of Yorke, and other adjoying counties; declaring their earnest desire to have peace concluded, and a happy agreement, betweene the King and Parliament.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by T.F. for J.B.,</publisher>
+                  <pubPlace>[London?] :</pubPlace>
+                  <date>Decemb. 17, 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the University of Illinois (Urbana-Champaign Campus). Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term type="geographic_name">Yorkshire (England) --  History --  Civil War, 1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:48982:1"/>
+            <pb facs="tcp:48982:1"/>
+            <p>An Humble PETITION FOR Accommodation; Presented to the Kings most Excellent MAJESTY, AT OXFORD, ON Sunday the eleventh of this instant <hi>December, From the Gentry and Commonalty of the Countie of</hi> YORKE, <hi>and other adjoyning Counties.</hi>
+            </p>
+            <p>Declaring their earnest desire to have Peace con<g ref="char:EOLhyphen"/>cluded, and a happy agreement, betweene the King and Parliament.</p>
+            <p>
+               <hi>Decemb.</hi> 17. Printed by <hi>T. F.</hi> for <hi>J. B.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:48982:2"/>
+            <pb facs="tcp:48982:2"/>
+            <head>An Humble PETITION for Accommodation; Presented to the Kings most Ex<g ref="char:EOLhyphen"/>cellent Majesty, from the Gentry, and Commonalty, of the County of <hi>Yorke</hi>
+            </head>
+            <opener>
+               <salute>May it please your Maiesty,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>O accept the sympa<g ref="char:EOLhyphen"/>thizing sence and fee<g ref="char:EOLhyphen"/>ling, from the imme<g ref="char:EOLhyphen"/>diate issues of the souls of your distracted Sub<g ref="char:EOLhyphen"/>jects, whose particu<g ref="char:EOLhyphen"/>lar Estate can hardly afford an object for Your eye, yet if it pleased You to behold Us altogether, and to view the circumference of our united Bounds, our
+<pb facs="tcp:48982:3"/>fortunes will be largely considerable, and our live<g ref="char:EOLhyphen"/>lihoods of the highest and chiefest consequence, in the great burthens of this Common-wealth, upon whom the disasters of these many long and evill yeares have plaid their prize, and acted the sad Tra<g ref="char:EOLhyphen"/>gedy of our lingering misery, and that we as farre as in us lyerh, may prevent our utter ruine and de<g ref="char:EOLhyphen"/>struction, we doe humbly supplicate your Majesty, cleerely to behold our present desperate distracti<g ref="char:EOLhyphen"/>ons, for we, nay onely wee, have borne the burthen of the day, we have beene driven from our rest by night, our Lands laid waste, our goods forced from us, nay which is more, we have spun a supply for many grievous Taxes, out of the brinish sweat of our dropping browes, and woven our Rents out of the very bowels of our meere necessaries, nay which is worse, if we may touch our Houshold abuses, and villanies, they would leniate an Adamantine heart, but we forbeare to cry out, they are not utterable, nay modesty it selfe petitions for silence heerein, and although these be but like lightning, in com<g ref="char:EOLhyphen"/>parison of deadly thunderclaps, and like a gentle shower, in respect of our overwhelming tempests, yet by these we may adumbrate the dismall effects of civill broyles, as the source and spring of all en<g ref="char:EOLhyphen"/>suing misery, the burnt child we say dreads the fire, and can these markes, these brands, already impres<g ref="char:EOLunhyphen"/>sed, which are obvious to all our sences, be ever so forgotten, as that we shall goe along with the de<g ref="char:EOLhyphen"/>structive incendia<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ies of this age, to redouble our grievous sufferings againe. If the smart of some stroakes be past already, yet some are bleeding, as
+<pb n="3" facs="tcp:48982:3"/>whet stones for our memory, to tell us from whence, they came, some imminent, if God prevent them not, some at hand, if we may presage by threatning foretokens, and prodigious signes, to exasperate all the rest by an incurable divorse of all our welfare forever,: Good God into what amaze are we now brought,! doe not Lawes divine inioyne us, humane incourage us, and nature it selfe engage us to pro<g ref="char:EOLhyphen"/>vide for a well beeing, the weakest things by in<g ref="char:EOLhyphen"/>stinct, rely uppon the stronger for support the mea<g ref="char:EOLhyphen"/>nest creatures have often the firmest houlds, and these by nature, and shall man in reason be taxed for apprehending meanes of preservation, which is granted by nature to worthlesse abjects; (God for<g ref="char:EOLhyphen"/>bid) be pleased then O serene Prince, to give us li<g ref="char:EOLhyphen"/>cence to implore your concurrence with your great Councell, the Parliament, it is our shelter, our sup<g ref="char:EOLhyphen"/>port, the onely refuge the common Sanctuary of this whole Kingdome, pointed at as legall by di<g ref="char:EOLhyphen"/>vine Oracles, confirmed daily by heavenly Miracles, approved by experience, the grand teacher of us all to be the onely meanes under the coape of heaven, to bring the chained labours to a kindly perfection: and can we wave the vigilant and laborious Mem<g ref="char:EOLhyphen"/>bers of this House, without attentering of our un<g ref="char:EOLhyphen"/>thankefulnes, and hightning the guilty degrees of our ingratitude, whose choyce was ours, whose charge and paines their owne, whose endeavours are such, that our weake tongues may wrong, but are not able to right, in the full demensions of their
+<pb n="4" facs="tcp:48982:4"/>deservings, and yet the shamelesse vassales of these times, would not onely bury them in silence, if it were tollerable, but heape upon their Urnes, bun<g ref="char:EOLhyphen"/>dles of infamous libels, and false aspersions, to in<g ref="char:EOLhyphen"/>cense your Maiesty against them, and to degree out of us that intimate trust and confidence, which we have so firmely in our election reposed in them, but these we leave to the change of these dissembling times, and come againe to your sacred Majesty, in the bitternesse of our soules, and unfained sorrowes of our hearts, to beseech you to open your cares to these Peace-Makers of Israell, who are set in the highest corner Tower, that they may see the far<g ref="char:EOLhyphen"/>thest, and prevent more earely the Machinations of Jerusalems Enemies: accept the Olive branch they bring, imbrace their loyall approachers of love, and union, entertaine their deliberate agitations, with their primative entercourse, which hath so of old adorned the mutuall proceedings both of Prince and People: they pretend, next to the glo<g ref="char:EOLhyphen"/>ry of God, the advancement of your Dominions, can Your Kingdome flourish, and you not reape the best fruits? And can it be blasted, and their, and our hopes not be worme-eaten also? Wee all have our proportions, we all have our peculiar inte<g ref="char:EOLhyphen"/>rests.</p>
+            <p>But here is a mysterie which wee must referre to times, if the worke be from GOD, it is in vaine to resist, if it be from Men it will come to nought, reserve therefore your selfe, O Sacred Prince, for the Oracles of God, waite
+<pb n="5" facs="tcp:48982:4"/>upon the Vision, who though it tarry yet it shall speake the truth, and let you see those things that belong to your Peace at last, if the Lord hath beheld no iniquity in <hi>Jacob,</hi> nor seene perversenesse in <hi>Israel,</hi> then the Lord their God will be with them, and a showte of a King (O grant with speed) shall be among them, surely no Inchantment can pre<g ref="char:EOLhyphen"/>vaile against <hi>Iacob,</hi> nor divination have <hi>Israell</hi> can <hi>Bal<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>cam</hi> curse, whom God hath not cursed; or can he desie whom God hath not defied; we yet further intreaty you take no<g ref="char:EOLhyphen"/>tice of the Catalines of this age, who by stand or treache<g ref="char:EOLhyphen"/>ry, invent a thousand mean <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s of dissention and ch<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ting a<g ref="char:EOLhyphen"/>sunder the conditions of peace, who father then they would fall one day from their greedy designe<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, would de<g ref="char:EOLhyphen"/>voure the whole Kingdome at one repast, consuming with the wormes the substance that bred them, and with the vi<g ref="char:EOLhyphen"/>pers rending the bowels that conceived them, by their per<g ref="char:EOLhyphen"/>verse practices you may know them, for this day have they set our being, the life of this famous Kingdome, and the honour and glory of our great God at stake, fomenting: and adding fewell without ceasing to fire them all by their fierce and inhumane combustions; with drawne swords: armes stretch d out; &amp; thirsting desires: so they gape to glut themselves with our dearest blood: and is there no comfort left: but the common calamity; yes there is yet time for safer thoughts: so long as we have mercifull God to trust in: and a gracious Prince ready more we hope, then <hi>Assuerus</hi> was to <hi>Hester</hi> to hold out his golden scepter, that we may touch the top thereof, not to embolden us to claime halfe of your Kingdom, but to beg, that our lives and the lives of all your Liege-poeple may be secured, that <hi>Mordecay</hi> may enter into the Gates of your Pallace, that truth may stand upon its owne bottome, and shine in its proper luster, which will discover the vailed <hi>Hamans</hi> of this age, that they may be catched in their owne plots▪ and so receive their unexpected doome. To conclude so, though sicke are our minds, and pensive are our hearts, that we can breath
+<pb n="6" facs="tcp:48982:5"/>out nothing but suplications, we humbly beseech your transcendent excellence, to give an end to these, take the the Mourning garments from us, which unsuits us for your Royall attendance, wipe those brackish teares from our cheeks, as too sad spectacles for a Princes eyes, and root out of our hearts, the dolefull matter of our uncessant groa<g ref="char:EOLhyphen"/>ning, as over-harsh Musick for a Monarches eares, these di<g ref="char:EOLhyphen"/>stances being removed, how freely shall we come upon your gracious summons, with promising countenances sincere hearts, to racke our estates and sacrifice our lives for the glory of God, the safety and honour of your Maje<g ref="char:EOLhyphen"/>sty, and the generall wellfare of the Kingdome, for all which your Petitioners will most humbly pray.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:48982:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
